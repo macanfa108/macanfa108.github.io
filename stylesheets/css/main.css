@@ -1,0 +1,20 @@
+@charset "UTF-8";
+html, body {
+  font-family: "Comic Sans MS","骞煎渾","榛戜綋","sans-serif";
+  color: #999;
+  padding-top: 26px; }
+
+#banner {
+  height: auto;
+  width: 100%;
+  text-align: center;
+  padding: 5% 0;
+  background: #23AAF2 -webkit-linear-gradient(117deg, #23AAF2, #172a73); }
+
+.navbar-default {
+  background-color: #fff;
+  border-color: #fff;
+  border: none;
+  border-bottom: 2px solid blue; }
+
+/*# sourceMappingURL=main.css.map */
